@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: chat-file
+Version: 0.1.0
+Summary: An AI agent project for analyzing files using FastAPI and Streamlit.
+Author-email: Your Name <your.email@example.com>
+Requires-Python: >=3.10
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: streamlit
+Requires-Dist: python-multipart
+Requires-Dist: pydantic
+Requires-Dist: pydantic-settings
+Requires-Dist: langchain==0.3.12
+Requires-Dist: langchain-community==0.3.12
+Requires-Dist: langchain-core==0.3.25
+Requires-Dist: langchain-openai>=0.2.0
+Requires-Dist: langchain-huggingface>=0.1.0
+Requires-Dist: sentence-transformers
+Requires-Dist: openai
+Requires-Dist: tiktoken
+Requires-Dist: chromadb
+Requires-Dist: langchain-chroma
+Requires-Dist: pypdf
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Requires-Dist: langchain-experimental
+Requires-Dist: tabulate

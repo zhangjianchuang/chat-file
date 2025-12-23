@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Project Data (Local storage)
+data/chroma_db/
+data/uploads/
+data/session_state.json
+
+# Logs
+logs/
+*.log
+
+# Mac OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/

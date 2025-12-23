@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+backend/main.py
+chat_file.egg-info/PKG-INFO
+chat_file.egg-info/SOURCES.txt
+chat_file.egg-info/dependency_links.txt
+chat_file.egg-info/requires.txt
+chat_file.egg-info/top_level.txt
+frontend/app.py
