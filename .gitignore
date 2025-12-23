@@ -11,10 +11,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Distribution / Packaging
+*.egg-info/
+build/
+dist/
+
 # Project Data (Local storage)
-data/chroma_db/
-data/uploads/
-data/session_state.json
+data/
 
 # Logs
 logs/
